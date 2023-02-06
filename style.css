@@ -23,9 +23,10 @@ body {
 }
 
 #div2{
+
     display: flex;
     justify-content: center;
-    margin: 5%
+    margin: 30px 30px
 
 }
 
@@ -35,7 +36,7 @@ body {
     align-items: center;
     text-align: center;
     display: block;
-    width: auto;
+    width: 78%
 }
 
 
